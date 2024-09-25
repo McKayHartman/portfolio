@@ -1,8 +1,18 @@
-.primary{
+html{
+    background-color: #EFBC9B;
 }
 
-.secondary{
+
+.header{
+    background-color: #D6DAC8;
+    padding: 50px;
+    text-align: left;
+    border: solid;
+    border-width: 5px;
+    text-align: center;
+    border-color:#9CAFAA;
 }
 
-.tertiary{
+.container{
+    display: grid;
 }
